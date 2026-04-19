@@ -1,4 +1,0 @@
-package com.gla.Exception;
-
-public class F3 {
-}
